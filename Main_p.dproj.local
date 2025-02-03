@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/19 19:09:38.000.530,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/24 14:04:21.000.994,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/24 14:06:18.000.699,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 19:10:25.000.448,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 20:04:10.000.451,C:\Users\Administrator\Desktop\IT PAT\main_u.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/04/15 20:04:10.000.451,C:\Users\Administrator\Desktop\IT PAT\main_u.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/04/15 20:04:21.000.806,C:\Users\Administrator\Desktop\IT PAT\Main_p.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/04/16 14:46:57.000.592,=D:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/04/16 14:48:57.000.248,D:\IT PAT\Unit1.dfm=D:\IT PAT\login_u.dfm</Transaction>
+    <Transaction>2024/04/16 14:48:57.000.248,D:\IT PAT\Unit1.pas=D:\IT PAT\login_u.pas</Transaction>
+    <Transaction>2024/04/20 17:52:26.000.381,=F:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/04/20 17:53:08.000.456,F:\IT PAT\Unit1.dfm=F:\IT PAT\admin_u.dfm</Transaction>
+    <Transaction>2024/04/20 17:53:08.000.456,F:\IT PAT\Unit1.pas=F:\IT PAT\admin_u.pas</Transaction>
+    <Transaction>2024/04/22 19:12:50.000.534,=F:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/04/22 19:19:27.000.352,F:\IT PAT\Unit1.dfm=F:\IT PAT\buying_u.dfm</Transaction>
+    <Transaction>2024/04/22 19:19:27.000.352,F:\IT PAT\Unit1.pas=F:\IT PAT\buying_u.pas</Transaction>
+    <Transaction>2024/04/24 15:42:13.000.612,=E:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/04/24 15:42:35.000.783,=E:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/04/24 15:46:43.000.344,E:\IT PAT\dmData_u.dfm=E:\IT PAT\Unit1.dfm</Transaction>
+    <Transaction>2024/04/24 15:46:43.000.344,E:\IT PAT\dmData_u.pas=E:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 16:49:57.000.328,=F:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 17:00:08.000.376,F:\IT PAT\sell_u.dfm=F:\IT PAT\Unit1.dfm</Transaction>
+    <Transaction>2024/05/05 17:00:08.000.376,F:\IT PAT\sell_u.pas=F:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 17:21:51.000.868,=F:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 18:42:47.000.725,=F:\IT PAT\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 18:43:04.000.213,F:\IT PAT\property_u.pas=F:\IT PAT\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
